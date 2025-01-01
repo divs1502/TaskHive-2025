@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pBkmOHn/meURXSbQp27PlfOIGoa0c+06Z0llEEUh+gs=",
+  "Source": "TaskHive.API",
+  "BasePath": "_content/TaskHive.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
